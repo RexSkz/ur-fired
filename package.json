@@ -1,0 +1,8 @@
+{
+  "name": "ur-fired",
+  "version": "1.0.0",
+  "description": "You are fired!",
+  "main": "index.js",
+  "author": "Rex Zeng <rex@rexskz.info>",
+  "license": "WTFPL"
+}
